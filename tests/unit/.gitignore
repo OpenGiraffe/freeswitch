@@ -10,3 +10,14 @@
 perf.data
 perf.data.old
 Makefile.in
+/Makefile
+/switch_console
+/switch_core
+/switch_core_codec
+/switch_core_video
+/switch_event
+/switch_hash
+/switch_ivr_originate
+/switch_ivr_play_say
+/switch_utils
+/switch_vpx
